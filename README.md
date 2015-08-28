@@ -2,6 +2,7 @@
 
 ## `rebase`
 
+* [**rebase-guide**](https://github.com/irnc/rebase-guide)
 * http://git-scm.com/docs/git-rebase
 * https://developer.atlassian.com/blog/2014/12/pull-request-merge-strategies-the-great-debate/
 
